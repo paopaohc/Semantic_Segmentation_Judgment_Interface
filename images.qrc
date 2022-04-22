@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/leftarrows.jpg</file>
+        <file>images/magnify.jpg</file>
+        <file>images/reduce.jpg</file>
+        <file>images/rightarrows.jpg</file>
+        <file>images/wholeshow.png</file>
+        <file>images/refresh.png</file>
+        <file>images/category.jpg</file>
+    </qresource>
+</RCC>
